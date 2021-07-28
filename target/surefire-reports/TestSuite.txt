@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.428 s <<< FAILURE! - in TestSuite
+EndtoEndProject.ValidateText.validate  Time elapsed: 0.03 s  <<< FAILURE!
+java.lang.AssertionError: expected [Featured 123Courses] but found [Featured Courses]
+	at EndtoEndProject.ValidateText.validate(ValidateText.java:48)
+
