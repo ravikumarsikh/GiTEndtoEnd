@@ -27,6 +27,7 @@ public class HomePage extends base{
 	public void inti() throws IOException
 	{
 driver = initializedriver();
+//commenting for adding git commends
 
 		
 		
